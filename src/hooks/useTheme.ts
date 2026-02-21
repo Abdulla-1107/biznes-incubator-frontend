@@ -2,10 +2,10 @@ import { useEffect, useState } from 'react';
 
 export function useTheme() {
   const [theme, setThemeState] = useState<'light' | 'dark'>(() => {
-    if (typeof window === 'undefined') return 'dark';
+    if (typeof window === 'undefined') return 'light'; // 🔥 default light
     const stored = localStorage.getItem('theme');
     if (stored === 'light' || stored === 'dark') return stored;
-    return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    return 'light'; // 🔥 har doim oq
   });
 
   useEffect(() => {
@@ -15,7 +15,8 @@ export function useTheme() {
     localStorage.setItem('theme', theme);
   }, [theme]);
 
-  const toggleTheme = () => setThemeState(prev => prev === 'dark' ? 'light' : 'dark');
+  const toggleTheme = () =>
+    setThemeState(prev => (prev === 'dark' ? 'light' : 'dark'));
 
   return { theme, toggleTheme };
 }
