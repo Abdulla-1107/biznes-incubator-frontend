@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "startups": "Startaplar",
+    "services": "Xizmatlar",
+    "mentors": "Mentorlar",
+    "events": "Tadbirlar",
+    "blog": "Blog",
+    "apply": "Ariza Berish",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "title_prefix": "ni",
+    "title_suffix": "muvaffaqiyatga olib boramiz",
+    "words": ["Startupingiz", "Biznesingiz", "G'oyangiz"],
+    "subtitle": "O'zbekistonning yetakchi biznes inkubatori. Biz startuplarga g'oyadan muvaffaqiyatli biznesgacha bo'lgan yo'lda yordam beramiz.",
+    "cta_primary": "Ariza Berish",
+    "cta_secondary": "Ko'proq Bilish"
+  },
+  "stats": {
+    "startups": "Startaplar",
+    "mentors": "Mentorlar",
+    "success_rate": "Muvaffaqiyat darajasi",
+    "partners": "Hamkorlar"
+  },
+  "sections": {
+    "services": "Xizmatlarimiz",
+    "services_desc": "Startupingizni keyingi bosqichga olib chiqish uchun keng qamrovli xizmatlar",
+    "startups": "Startaplar",
+    "startups_desc": "Inkubatordagi faol startaplar",
+    "mentors": "Mentorlarimiz",
+    "mentors_desc": "Tajribali mutaxassislar jamoasi",
+    "partners": "Hamkorlar",
+    "partners_desc": "Bizning ishonchli hamkorlarimiz",
+    "testimonials": "Fikrlar",
+    "testimonials_desc": "Inkubator ishtirokchilarining fikrlari",
+    "blog": "Blog",
+    "blog_desc": "So'nggi yangiliklar va maqolalar",
+    "cta_title": "Inkubatorga Qo'shiling",
+    "cta_desc": "Startupingizni muvaffaqiyatga olib boring. Hoziroq ariza bering!",
+    "view_all": "Barchasini Ko'rish"
+  },
+  "apply": {
+    "title": "Ariza Berish",
+    "subtitle": "Inkubatorga qo'shilish uchun ariza to'ldiring",
+    "step1": "Shaxsiy Ma'lumotlar",
+    "step2": "Loyiha Haqida",
+    "step3": "Qo'shimcha",
+    "next": "Keyingi",
+    "prev": "Ortga",
+    "submit": "Ariza Yuborish",
+    "success": "Arizangiz muvaffaqiyatli yuborildi!",
+    "success_desc": "Telegram orqali xabardor qilamiz",
+    "fullName": "To'liq ism",
+    "email": "Email",
+    "phone": "Telefon raqam",
+    "ideaDescription": "G'oya tavsifi",
+    "industry": "Soha",
+    "stage": "Bosqich",
+    "teamSize": "Jamoa hajmi",
+    "investmentNeeded": "Kerakli investitsiya",
+    "fileUrl": "Fayl havolasi",
+    "terms": "Shartlar va qoidalarga roziman"
+  },
+  "contact": {
+    "title": "Biz bilan bog'laning",
+    "subtitle": "Savollaringiz bormi? Biz bilan bog'laning!",
+    "message": "Xabar",
+    "send": "Yuborish",
+    "success": "Xabaringiz yuborildi! 24 soat ichida javob beramiz.",
+    "address": "Toshkent, O'zbekiston",
+    "response_note": "Xabaringiz 24 soat ichida javob beriladi"
+  },
+  "common": {
+    "read_more": "Ko'proq o'qish",
+    "view_all": "Barchasini Ko'rish",
+    "free": "Bepul",
+    "premium": "Premium",
+    "online": "Onlayn",
+    "offline": "Oflayn",
+    "loading": "Yuklanmoqda...",
+    "error": "Xatolik yuz berdi",
+    "retry": "Qayta urinish",
+    "search": "Qidirish...",
+    "all": "Barchasi",
+    "back": "Ortga",
+    "spots_left": "joy qoldi",
+    "register": "Ro'yxatdan O'tish"
+  },
+  "stages": {
+    "IDEA": "G'oya",
+    "MVP": "MVP",
+    "EARLY": "Boshlang'ich",
+    "GROWTH": "O'sish",
+    "SCALE": "Masshtab",
+    "SCALING": "Masshtablash"
+  },
+  "footer": {
+    "description": "O'zbekistonning yetakchi biznes inkubatori. Startuplarga g'oyadan muvaffaqiyatli biznesgacha.",
+    "pages": "Sahifalar",
+    "social": "Ijtimoiy tarmoqlar",
+    "contact_info": "Aloqa"
+  }
+}

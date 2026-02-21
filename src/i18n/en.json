@@ -1,0 +1,104 @@
+{
+  "nav": {
+    "home": "Home",
+    "startups": "Startups",
+    "services": "Services",
+    "mentors": "Mentors",
+    "events": "Events",
+    "blog": "Blog",
+    "apply": "Apply",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title_prefix": "",
+    "title_suffix": "to success",
+    "words": ["Your Startup", "Your Business", "Your Idea"],
+    "subtitle": "Uzbekistan's leading business incubator. We help startups navigate the journey from idea to successful business.",
+    "cta_primary": "Apply Now",
+    "cta_secondary": "Learn More"
+  },
+  "stats": {
+    "startups": "Startups",
+    "mentors": "Mentors",
+    "success_rate": "Success Rate",
+    "partners": "Partners"
+  },
+  "sections": {
+    "services": "Our Services",
+    "services_desc": "Comprehensive services to take your startup to the next level",
+    "startups": "Startups",
+    "startups_desc": "Active startups in our incubator",
+    "mentors": "Our Mentors",
+    "mentors_desc": "Team of experienced professionals",
+    "partners": "Partners",
+    "partners_desc": "Our trusted partners",
+    "testimonials": "Testimonials",
+    "testimonials_desc": "What our participants say",
+    "blog": "Blog",
+    "blog_desc": "Latest news and articles",
+    "cta_title": "Join the Incubator",
+    "cta_desc": "Take your startup to success. Apply now!",
+    "view_all": "View All"
+  },
+  "apply": {
+    "title": "Apply",
+    "subtitle": "Fill out the application to join our incubator",
+    "step1": "Personal Info",
+    "step2": "About Project",
+    "step3": "Additional",
+    "next": "Next",
+    "prev": "Back",
+    "submit": "Submit Application",
+    "success": "Your application has been submitted!",
+    "success_desc": "We'll notify you via Telegram",
+    "fullName": "Full Name",
+    "email": "Email",
+    "phone": "Phone Number",
+    "ideaDescription": "Idea Description",
+    "industry": "Industry",
+    "stage": "Stage",
+    "teamSize": "Team Size",
+    "investmentNeeded": "Investment Needed",
+    "fileUrl": "File URL",
+    "terms": "I agree to terms and conditions"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? Contact us!",
+    "message": "Message",
+    "send": "Send",
+    "success": "Message sent! We'll respond within 24 hours.",
+    "address": "Tashkent, Uzbekistan",
+    "response_note": "Your message will be answered within 24 hours"
+  },
+  "common": {
+    "read_more": "Read More",
+    "view_all": "View All",
+    "free": "Free",
+    "premium": "Premium",
+    "online": "Online",
+    "offline": "Offline",
+    "loading": "Loading...",
+    "error": "An error occurred",
+    "retry": "Retry",
+    "search": "Search...",
+    "all": "All",
+    "back": "Back",
+    "spots_left": "spots left",
+    "register": "Register"
+  },
+  "stages": {
+    "IDEA": "Idea",
+    "MVP": "MVP",
+    "EARLY": "Early",
+    "GROWTH": "Growth",
+    "SCALE": "Scale",
+    "SCALING": "Scaling"
+  },
+  "footer": {
+    "description": "Uzbekistan's leading business incubator. From idea to successful business.",
+    "pages": "Pages",
+    "social": "Social",
+    "contact_info": "Contact"
+  }
+}
