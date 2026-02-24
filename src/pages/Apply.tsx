@@ -14,7 +14,7 @@ const schema = z.object({
   fullName: z.string().trim().min(2).max(100),
   email: z.string().trim().email().max(255),
   phone: z.string().trim().min(9).max(20),
-  ideaDescription: z.string().trim().min(10).max(3000),
+  ideaDescription: z.string().trim().min(3).max(3000),
   industry: z.string().min(1),
   stage: z.string().min(1),
   teamSize: z.coerce.number().min(1).max(100),
