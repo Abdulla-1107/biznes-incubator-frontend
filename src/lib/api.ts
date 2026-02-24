@@ -10,13 +10,13 @@ export const api = axios.create({
   timeout: 10000,
 });
 
-api.interceptors.response.use(
-  (res) => res,
-  (error) => {
-    console.error('API Error:', error.response?.data || error.message);
-    return Promise.reject(error);
-  }
-);
+// api.interceptors.response.use(
+//   (res) => res,
+//   (error) => {
+//     console.error('API Error:', error.response?.data || error.message);
+//     return Promise.reject(error);
+//   }
+// );
 
 export function getLocalizedField(item: Record<string, any>, field: string, lang: string): string {
   const cap = lang.charAt(0).toUpperCase() + lang.slice(1);
